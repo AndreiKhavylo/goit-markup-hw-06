@@ -1012,6 +1012,8 @@ margin-bottom: 4px;
   line-height:1.17;
   letter-spacing: 0.03em;
   color: var(--accent-color);
+  text-decoration: underline 1px #2196f3;
+  text-decoration-skip-ink: none;
 }
 
 .checkbox-label span{
